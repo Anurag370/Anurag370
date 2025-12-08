@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there, I'm Anurag 👋  
 
-<!--
-**Anurag370/Anurag370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer | React & Node | MERN | DevOps Learner  
 
-Here are some ideas to get you started:
+I love building modern web applications and experimenting with AI & automation.  
+Always learning something new 🤓  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack  
+
+### 💻 Frontend
+- React.js
+- TailwindCSS  
+- JavaScript (ES6+)
+- HTML / CSS  
+
+### ⚙ Backend
+- Node.js  
+- Express.js  
+- MongoDB  
+- MySQL  
+
+### 🛠 Tools & DevOps
+- Git / GitHub  
+- VS Code  
+- Postman   
+
+---
+
+## 🌱 What I'm learning
+- TypeScript  
+- Next.js 15  
+- Docker  
+- DevOps basics  
+
+---
+
+## 📌 Featured Projects  
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| Portfolio Website | Personal portfolio | React, Tailwind |
+| Notes App | Full CRUD note taking | MERN |
+
+> 👉 More projects are being added soon...
+
+---
+
+## 📫 Reach me here  
+
+📧 Email: homroyanurag@gmail.com  
+💼 LinkedIn: coming soon  
+🌍 Portfolio: coming soon  
+
+---
+
+## ✨ Fun fact  
+I break things just to fix them 😄
+
+---
+
+> ⭐ If you like my work, give a star to my repos!
+>
+> _Let’s build something amazing together!_
