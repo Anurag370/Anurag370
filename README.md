@@ -8,7 +8,11 @@ Always learning something new 🤓
 ---
 
 ## 🧰 Tech Stack  
-
+### ⚙ Programming Languages
+- Python
+- C++
+- C
+  
 ### 💻 Frontend
 - React.js
 - TailwindCSS  
