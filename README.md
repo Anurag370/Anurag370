@@ -23,7 +23,8 @@ Always learning something new 🤓
 - Node.js  
 - Express.js  
 - MongoDB  
-- MySQL  
+- MySQL
+- FastAPI  
 
 ### 🛠 Tools & DevOps
 - Git / GitHub  
