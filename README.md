@@ -48,6 +48,7 @@ Always learning something new 🤓
 |--------|-------------|------|
 | Portfolio Website | Personal portfolio | React, Tailwind |
 | Notes App | Full CRUD note taking | MERN |
+| MindfulPath | Mental Health Support Platform | FastAPI, React, MongoDB |
 
 > 👉 More projects are being added soon...
 
