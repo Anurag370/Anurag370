@@ -37,7 +37,8 @@ Always learning something new 🤓
 - TypeScript  
 - Next.js 15  
 - Docker  
-- DevOps basics  
+- DevOps basics
+- PostgreSQL
 
 ---
 
