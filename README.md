@@ -5,7 +5,6 @@
 I love building modern web applications and experimenting with AI & automation.  
 Always learning something new 🤓  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag370&show_icons=true)
 
 ---
 
