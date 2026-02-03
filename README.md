@@ -59,7 +59,7 @@ Always learning something new 🤓
 
 📧 Email: homroyanurag@gmail.com  
 💼 LinkedIn: coming soon  
-🌍 Portfolio: https://anurags-portfolio.onrender.com 
+🌍 Portfolio: https://anurags-portfolio.onrender.com
 📊 CodeForces: https://codeforces.com/profile/homroyanurag
 
 ---
