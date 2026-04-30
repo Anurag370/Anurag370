@@ -1,6 +1,6 @@
 # Hi there, I'm Anurag 👋  
 
-### 🚀 Full-Stack Developer | React & Node | MERN | DevOps Learner  
+### 🚀 Full-Stack Developer | Python | MERN | DevOps Learner  
 
 I love building modern web applications and experimenting with AI & automation.  
 Always learning something new 🤓  
