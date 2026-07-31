@@ -30,13 +30,12 @@ Always learning something new 🤓
 ### 🛠 Tools & DevOps
 - Git / GitHub  
 - VS Code  
-- Postman   
+- Postman
+- Linux  
 
 ---
 
 ## 🌱 What I'm learning
-- TypeScript  
-- Next.js 15  
 - Docker  
 - DevOps basics
 - PostgreSQL
@@ -50,6 +49,8 @@ Always learning something new 🤓
 | Portfolio Website | Personal portfolio | React, Tailwind |
 | Notes App | Full CRUD note taking | MERN |
 | MindfulPath | Mental Health Support Platform | FastAPI, React, MongoDB |
+| Enterprise-RAG | An Enterprise level RAG Application | Langchain, Langgraph, Python, FastAPI |
+| FaceRecog | An Smart-Attendance System which scans student face to mark attendance. | Python, FastAPI, OpenCV, InsightFace | 
 
 > 👉 More projects are being added soon...
 
@@ -60,7 +61,6 @@ Always learning something new 🤓
 📧 Email: homroyanurag@gmail.com  
 💼 LinkedIn: coming soon  
 🌍 Portfolio: https://anurags-portfolio.onrender.com  
-📊 CodeForces: https://codeforces.com/profile/homroyanurag
 
 ---
 
