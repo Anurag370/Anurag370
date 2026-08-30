@@ -167,10 +167,6 @@ Exploring: **LangChain** • **LangGraph** • **RAG** • **LLM Applications** 
   <img src="https://streak-stats.demolab.com?user=Anurag370&theme=tokyonight&hide_border=true&background=0d1117"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag370&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
-</div>
-
 ---
 
 ## 🤝 Let's Connect
