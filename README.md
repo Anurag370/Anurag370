@@ -4,11 +4,7 @@
 
 ### 🚀 Full-Stack Developer | 💻 Backend & DevOps Enthusiast | 🤖 AI Engineer in Progress
 
-<a href="https://github.com/Anurag370">
-  <img src="https://komarev.com/ghpvc/?username=Anurag370&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</a>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=I+build+full-stack+%26+AI+apps;Backend+%26+DevOps+enthusiast;Turning+ideas+into+products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&multiline=false&width=600&height=60&lines=I+build+full-stack+%26+AI+apps;Backend+%26+DevOps+enthusiast;Turning+ideas+into+products" alt="Typing SVG"/>
 
 ---
 
@@ -157,11 +153,6 @@ Exploring: **LangChain** • **LangGraph** • **RAG** • **LLM Applications** 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurag370&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag370&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Anurag370&theme=tokyonight&hide_border=true&background=0d1117"/>
