@@ -1,4 +1,8 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=200&section=header&text=Anurag%20Hom%20Roy&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20LLM%20Systems%20%7C%20DevOps&descAlignY=55&descSize=18" alt="Header Banner"/>
+</div>
+
+<div align="center">
 
 # 👋 Hey there, I'm **Anurag Hom Roy**
 
@@ -150,4 +154,8 @@ graph LR
 ### 🤝 Open for Collaborations, Internships & Full-Stack / AI Roles
 *If you find my repositories useful, consider dropping a ⭐!*
 
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=120&section=footer" alt="Footer Banner"/>
 </div>
