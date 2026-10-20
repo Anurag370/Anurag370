@@ -1,8 +1,4 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=200&section=header&text=Anurag%20Hom%20Roy&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20LLM%20Systems%20%7C%20DevOps&descAlignY=55&descSize=18" alt="Header Banner"/>
-</div>
-
-<div align="center">
 
 # 👋 Hey there, I'm **Anurag Hom Roy**
 
@@ -157,5 +153,5 @@ graph LR
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=120&section=footer" alt="Footer Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b1d6e,100:7F5AF0&height=120&section=footer" alt="Footer Banner" />
 </div>
