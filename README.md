@@ -124,7 +124,7 @@ graph LR
 
 ---
 
-## 📊 GitHub Telemetry
+## 📊 GitHub Telemetry & Contributions
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anurag370&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
@@ -133,6 +133,14 @@ graph LR
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Anurag370&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag370/Anurag370/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag370/Anurag370/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anurag370/Anurag370/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
