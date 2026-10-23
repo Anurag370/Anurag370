@@ -1,4 +1,7 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b1d6e,100:7F5AF0&height=120&section=header" alt="Header Banner" />
+</div>
+<div align="center">
 
 # 👋 Hey there, I'm **Anurag Hom Roy**
 
