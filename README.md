@@ -97,16 +97,32 @@ philosophy: "I break things in development so they never break in production."
         <a href="https://github.com/Anurag370"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
     </td>
+    
+  <td width="50%" valign="top">
+    <h3>🎙️ VoiceType</h3>
+    <p><b>AI-Powered Voice Typing Assistant</b></p>
+    <p>Real-time speech recognition system that converts spoken words into text, enabling hands-free typing and faster, more accessible text input.</p>
+    <p><b>Stack:</b> <code>Python</code> <code>Speech Recognition</code> <code>AI/ML</code></p>
+    <p>
+      <a href="https://github.com/Anurag370">
+        <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/>
+      </a>
+    </p>
+  </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>📝 Notes App & 🌐 Developer Portfolio</h3>
-      <p><b>Full-Stack Web Applications</b></p>
-      <p>RESTful MERN stack note-taking application with persistent CRUD storage, alongside my responsive personal developer portfolio.</p>
-      <p><b>Stack:</b> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>TailwindCSS</code></p>
+      <h3>🎓 LearnOS</h3>
+      <p><b>AI-Powered Personalized Learning Platform</b></p>
+      <p>Smart learning platform designed to enhance education through personalized learning experiences, organized study resources, and AI-driven assistance that helps students learn more efficiently.</p>
+      <p><b>Stack:</b> <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>AI/ML</code></p>
       <p>
-        <a href="https://anurags-portfolio.onrender.com"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-        <a href="https://github.com/Anurag370"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+        <a href="https://github.com/Anurag370">
+          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/>
+        </a>
       </p>
     </td>
+
   </tr>
 </table>
 
