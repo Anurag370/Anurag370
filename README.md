@@ -146,11 +146,6 @@ graph LR
 ## 📊 GitHub Telemetry & Contributions
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anurag370&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag370&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Anurag370&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
