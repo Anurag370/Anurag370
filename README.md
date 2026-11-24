@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anurags-portfolio.onrender.com">
+  <a href="https://anuragporfolio-mu.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/anurag-hom-roy/">
